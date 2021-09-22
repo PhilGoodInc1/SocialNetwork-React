@@ -1,0 +1,16 @@
+.formField textarea {
+}
+
+.error textarea,
+.error input {
+    border: red solid 2px;
+}
+
+.error span {
+    color: red;
+}
+
+.error_field_common {
+     border: red solid 2px;
+     color: red;
+ }
